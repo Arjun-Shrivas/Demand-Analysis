@@ -1,7 +1,6 @@
 <h2>🚴‍♂️ Problem Statement</h2>
-
-    <h3>About Yulu</h3>
-    <p>Yulu is India’s leading micro-mobility service provider, offering unique vehicles for daily commutes. 🌍 With a mission to eliminate traffic congestion, Yulu provides a safe and user-friendly mobile app for shared, solo, and sustainable commuting. 🏙️ Yulu zones are located at key locations including metro stations, bus stands, office spaces, residential areas, and corporate offices, ensuring smooth, affordable, and convenient first and last-mile connectivity. 🚉 🏢 🏠</p>
+<h3>About Yulu</h3>
+<p>Yulu is India’s leading micro-mobility service provider, offering unique vehicles for daily commutes. 🌍 With a mission to eliminate traffic congestion, Yulu provides a safe and user-friendly mobile app for shared, solo, and sustainable commuting. 🏙️ Yulu zones are located at key locations including metro stations, bus stands, office spaces, residential areas, and corporate offices, ensuring smooth, affordable, and convenient first and last-mile connectivity. 🚉 🏢 🏠</p>
 
     <h3>📉 Business Challenge</h3>
     <p>Recently, Yulu has experienced significant dips in its revenues. 💼 To address this, Yulu engaged a consulting company to understand the factors influencing the demand for its shared electric cycles in India. 🚲 Specifically, Yulu wants to identify the key variables impacting demand and how they can predict future demand.</p>
