@@ -68,8 +68,7 @@
         <li>No significant difference between holidays vs. non-holidays. 🎄</li>
     </ul>
 <h3>💡 Recommendations</h3>
-
-    <h4>🔄 Optimize Evening Availability:</h4>
+<h4>🔄 Optimize Evening Availability:</h4>
     <ul>
         <li>Increase fleet during evening peak hours. 🕓</li>
     </ul>
