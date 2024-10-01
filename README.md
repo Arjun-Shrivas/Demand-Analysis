@@ -1,27 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Yulu Problem Statement</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-        h2 {
-            color: #2c3e50;
-        }
-        ul {
-            line-height: 1.8;
-        }
-        .emoji {
-            font-size: 1.2em;
-        }
-    </style>
-</head>
-<body>
-
-    <h2>🚴‍♂️ Problem Statement</h2>
+<h2>🚴‍♂️ Problem Statement</h2>
 
     <h3>About Yulu</h3>
     <p>Yulu is India’s leading micro-mobility service provider, offering unique vehicles for daily commutes. 🌍 With a mission to eliminate traffic congestion, Yulu provides a safe and user-friendly mobile app for shared, solo, and sustainable commuting. 🏙️ Yulu zones are located at key locations including metro stations, bus stands, office spaces, residential areas, and corporate offices, ensuring smooth, affordable, and convenient first and last-mile connectivity. 🚉 🏢 🏠</p>
@@ -154,6 +131,3 @@
     </ul>
 
     <p>By implementing these recommendations, Yulu can optimize bike availability, enhance the user experience, and drive higher rentals throughout the year. 🚴‍♂️</p>
-
-</body>
-</html>
